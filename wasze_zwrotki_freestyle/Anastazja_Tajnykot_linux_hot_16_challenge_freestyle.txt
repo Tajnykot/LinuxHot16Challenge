@@ -1,0 +1,30 @@
+Autor: Anastazja_Tajnykot
+Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+
+Cześć, jestem tajny kot. Jak juź wiecie jestem tajny. Moja misja jest tajna, 
+dlatego z innymi agentami porozumiewam się kodem – tajnym kodem. 
+Na potrzeby tajnej misji musiałem teleportować się do komputera. 
+Pewnie jesteście ciekawi jak to zrobiłem, niestety to ściśle tajne.
+Z wiadomych mi powodów zdecydowałem zamieścić tu moje tajne notatki.
+
+mkdir - będzie mi potrzebny, aby utworzyć tajny katalog
+pwd - abym wiedział gdzie jestem
+rm - usuwam tajny plik
+rm -r - usuwam ściśle tajne pliki, również w podkatalogach 
+ls - sprawdzam tajne katalogi
+cd – za pomocą tego kodu teleportuję się do tajnego katalogu
+apt - pobieram tajny pakiet
+clear - czyszczę moje tajne kody na tajnym terminalu
+mc - używam, aby grzebać w mega tajnych katalogach
+vim - tego edytora tekstu używa każdy tajny kot
+exit - jak wszedłem, to muszę jakoś wyjść
+touch - tworzę nowy fajny i tajny plik
+cp - kopiuję tajne pliki
+cp -r - kopiuję foldery tajnych kotów
+mv - przenoszę pliki tajnych kotów do innego folderu
+locate - znajduję tajne pliki i foldery w kociamgnieniu.
+history - sprawdzam historię ściśle tajnych komend
+man - czasami potrzebuję pomocy
+cat - łączę i sprawdzam tajne pliki
+chmod – używam, aby inne koty nie miały dostępu do tajnych plików
